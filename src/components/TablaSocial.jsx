@@ -3,7 +3,7 @@ import React from 'react'
 const TablaSocial = () => {
   return (
     <>
-        <div className="w-full md:w-1/2 p-5 md:-px-0 mx-0 ">
+        <div className="w-full md:w-1/2 p-5 md:-px-0 mx-0  animate__animated animate__fadeInTopRight animate__repeat-1 animate__slow">
         <div className="bg-teal-900 border border-teal-500 w-full lg:w-1/2 h-full p-5 pt-8">
         <h3 className="text-2xl font-semibold mb-5 text-white">
         My Social Media

@@ -6,7 +6,7 @@ const DatosPersonales = () => {
         <div className="animate__animated animate__slideInDown">
         <h1 className="font-serif text-4xl text-teal-900 animate__animated animate-bounce">Datos Personales</h1>
 
-        <img className="w-80 mt-4 rounded-2xl animate__animated animate__fadeIn" src="fotopersonal.png" alt=''/>
+        <img className="w-80 mt-4 rounded-2xl animate__animated animate__bounceIn animate__repeat-1 animate__slow" src="fotopersonal.png" alt=''/>
         <div className='flex mt-4'>
         <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-square-1" width="36" height="36" viewBox="0 -3 24 24" stroke-width="1.5" stroke="#009988" fill="none" stroke-linecap="round" stroke-linejoin="round">
             <path stroke="none" d="M0 0h24v24H0z" fill="none"/>

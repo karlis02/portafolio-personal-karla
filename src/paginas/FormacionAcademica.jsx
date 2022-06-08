@@ -4,7 +4,7 @@ const FormacionAcademica = () => {
     return (
     <div className="animate__animated animate__slideInDown">
         <h1 className="font-serif text-4xl text-teal-900 animate-bounce">Formación Académica</h1>
-        <table className="table-auto">
+        <table className="table-auto animate__animated animate__flip animate__repeat-1 ">
         <thead className="justify-between">
             <tr clasNames="bg-teal-800">
             <th className="px-4 py-2">

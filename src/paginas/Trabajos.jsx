@@ -5,7 +5,7 @@ const Trabajos = () => {
     <div className="animate__animated animate__slideInDown">
       <h1 className="font-serif text-4xl text-teal-900 animate-bounce">Proyectos</h1>
       
-      <div class="bg-gradient-to-r from-rose-400 to-teal-400 lg:py-12 lg:flex lg:justify-center lg:rounded-lg mt-5">
+      <div class="bg-gradient-to-r from-rose-400 to-teal-400 lg:py-12 lg:flex lg:justify-center lg:rounded-lg mt-5 animate__animated animate__fadeInRightBig animate__repeat-1 animate__slow ">
         <div class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
             <div class="lg:w-1/2">
                 <div class="h-64 bg-cover lg:rounded-xl lg:h-full"><img src="proyecto1.jpg" alt="" /></div>
@@ -19,7 +19,7 @@ const Trabajos = () => {
             </div>
         </div>
       </div>
-      <div class="bg-gradient-to-r from-rose-400 to-teal-400 lg:py-12 lg:flex lg:justify-center lg:rounded-lg mt-5">
+      <div class="bg-gradient-to-r from-rose-400 to-teal-400 lg:py-12 lg:flex lg:justify-center lg:rounded-lg mt-5 animate__animated animate__fadeInRightBig animate__repeat-1 animate__slow">
         <div class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
             <div class="lg:w-1/2">
                 <div class="h-64 bg-cover lg:rounded-xl lg:h-full"><img src="proyecto3.jpg" alt="" /></div>

@@ -9,7 +9,7 @@ const Contacto = () => {
         <p className="mt-3">Puedes contactarme a través del medio que prefieras.</p>
     
         
-        <div className="md:px-5 py-8 w-full">
+        <div className="md:px-5 py-8 w-full animate__animated animate__zoomInDown animate__repeat-1 animate__slow">
         <div className="shadow overflow-hidden rounded border-b border-gray-200">
     <table className="min-w-full bg-white">
         <thead className="bg-teal-800 text-white">
