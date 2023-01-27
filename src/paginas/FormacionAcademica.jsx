@@ -4,14 +4,14 @@ const FormacionAcademica = () => {
     return (
     <div className="animate__animated animate__slideInDown">
         <h1 className="font-serif text-4xl text-teal-900 animate-bounce">Formación Académica</h1>
-        <table className="table-auto animate__animated animate__zoomInDown animate__repeat-1 animate__slow">
+        <table className="table-auto animate__animated animate__zoomInDown animate__repeat-1 animate__slow  mt-8">
         <thead className="justify-between">
             <tr clasNames="bg-teal-800">
             <th className="px-4 py-2">
                 <span class="text-white "></span>
             </th>
             <th className="px-4 py-2 ">
-                <span className="text-teal-700 ml-10">Tipo de educación</span>
+                <span className="text-teal-700 ml-0">Tipo de educación</span>
             </th>
             <th className="px-16 py-2">
                 <span className="text-teal-700">Institución</span>
