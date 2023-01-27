@@ -38,10 +38,10 @@ const FormacionAcademica = () => {
             </svg>
             </td>
             <td>
-                <span className="text-center ml-12 font-semibold">Educación primaria</span>
+                <span className="text-center ml-2 font-semibold">Educación primaria</span>
             </td>
             <td>
-                <span className="text-center ml-12 font-semibold">Escuela Bilingue John F. Kennedy</span>
+                <span className="text-center ml-0 font-semibold">Esc. Bilingue John F. Kennedy</span>
             </td>
             <td>
                 <span className="text-center ml-28 font-semibold">2013</span>
@@ -60,13 +60,13 @@ const FormacionAcademica = () => {
             </svg>
             </td>
             <td>
-                <span className="text-center ml-12 font-semibold">Educación Secundaria</span>
+                <span className="text-center ml-2 font-semibold">Educación Secundaria</span>
             </td>
             <td>
-            <span className="text-center ml-12 font-semibold">Colegio Madre del Divino Pastor</span>
+                <span className="text-center ml-0 font-semibold">Col. Madre del Divino Pastor</span>
             </td>
             <td>
-            <span className="text-center ml-28 font-semibold">2018</span>
+                <span className="text-center ml-28 font-semibold">2018</span>
             </td>
             <td>
                 <span className="text-center text-green-600 ml-14 font-bold">Finalizado</span>
@@ -83,10 +83,10 @@ const FormacionAcademica = () => {
             </svg>
             </td>
             <td>
-                <span className="text-center ml-12 font-semibold">Educación Superior</span>
+                <span className="text-center ml-2 font-semibold">Educación Superior</span>
             </td>
             <td>
-            <span className="text-center ml-12 font-semibold">Universidad de Costa Rica</span>
+            <span className="text-center ml-0 font-semibold">Universidad de Costa Rica</span>
             </td>
             <td>
             <span className="text-center ml-28 font-semibold">2022</span>
