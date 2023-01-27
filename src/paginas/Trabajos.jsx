@@ -47,6 +47,20 @@ const Trabajos = () => {
             </div>
         </div>
       </div>
+      <div class="bg-gradient-to-r from-rose-400 to-teal-400 lg:py-12 lg:flex lg:justify-center lg:rounded-lg mt-5 animate__animated animate__fadeInRightBig animate__repeat-1 animate__slow">
+        <div class="bg-white lg:mx-8 lg:flex lg:max-w-5xl lg:shadow-lg lg:rounded-lg">
+            <div class="lg:w-1/2">
+                <div class="h-64 bg-cover lg:rounded-xl lg:h-full"><img src="proyecto4.png" alt="" /></div>
+            </div>
+            <div class="py-12 px-6 max-w-xl lg:max-w-5xl lg:w-1/2">
+                <h2 class="text-3xl text-gray-800 font-bold">Paises App<span class="text-indigo-600">!</span></h2>
+                <p class="mt-4 text-gray-600">Este proyecto fue hecho en Angular, Postman y Bootstrap.</p>
+                <div class="mt-8">
+                    <a href="https://paises-karla.netlify.app/" class="bg-gray-900 text-gray-100 px-5 py-3 font-semibold rounded">Abrir</a>
+                </div>
+            </div>
+        </div>
+      </div>
 
     </div>
   )

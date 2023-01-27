@@ -11,18 +11,18 @@ const FormacionAcademica = () => {
                 <span class="text-white "></span>
             </th>
             <th className="px-4 py-2 ">
-                <span className="text-white ml-10">Tipo de educación</span>
+                <span className="text-teal-700 ml-10">Tipo de educación</span>
             </th>
             <th className="px-16 py-2">
-                <span className="text-white">Institución</span>
+                <span className="text-teal-700">Institución</span>
             </th>
 
             <th class="px-16 py-2">
-                <span className="text-white">Año de finalización</span>
+                <span className="text-teal-700">Año de finalización</span>
             </th>
 
             <th className="px-16 py-2">
-                <span className="text-white">Status</span>
+                <span className="text-teal-700">Status</span>
             </th>
             </tr>
         </thead>
